@@ -1,0 +1,10 @@
+{
+    "name": "com.sinedustries.uEX.animatorcurves",
+    "displayName": "SINeDUSTRIES.uEX.AnimatorCurves",
+    "version": "0.1.0",
+    "unity": "2018.1",
+    "description": "Library",
+    "keywords": ["library"],
+    "category": "Library",
+    "dependencies": { }
+}
